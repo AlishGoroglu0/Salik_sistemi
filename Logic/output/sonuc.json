@@ -1,0 +1,12 @@
+[
+    {
+        "hastalik_adi": "Bronşit / Zatürre Riski",
+        "yuzde": 80,
+        "bolum": "Göğüs Hastalıkları"
+    },
+    {
+        "hastalik_adi": "Kalp Krizi Riski",
+        "yuzde": 63,
+        "bolum": "ACİL SERVİS / KARDİYOLOJİ"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "tarih": "2025-12-13 21:32",
+        "yas": "25",
+        "cinsiyet": "Kadın",
+        "tani": "Uyku Apne Sendromu",
+        "kanser_riski": 0
+    },
+    {
+        "id": 2,
+        "tarih": "2025-12-13 21:34",
+        "yas": "22",
+        "cinsiyet": "Erkek",
+        "tani": "Panik Atak (Anksiyete Kriz)",
+        "kanser_riski": 0
+    }
+]

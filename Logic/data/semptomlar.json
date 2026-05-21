@@ -1,0 +1,853 @@
+[
+  
+  {
+    "id": "smp_yurume_mesafesi_kisalma",
+    "bolge_id": "bolge_sirt",
+    "soru_metni": "Yürürken bacaklarınızda uyuşma/ağrı nedeniyle durup dinlenme ihtiyacı (vitrin bakma belirtisi) duyuyor musunuz?",
+    "puan": 60,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_one_egilince_rahatlama",
+    "bolge_id": "bolge_sirt",
+    "soru_metni": "Bel ağrınız veya bacak şikayetleriniz öne doğru eğildiğinizde (veya alışveriş arabasına yaslanınca) hafifliyor mu?",
+    "puan": 50,
+    "bagli_oldugu_id": "smp_yurume_mesafesi_kisalma"
+  },
+  {
+    "id": "smp_gece_yarisi_bel_agrisi",
+    "bolge_id": "bolge_sirt",
+    "soru_metni": "Bel ağrınız gecenin ikinci yarısında sizi uykudan uyandırıyor mu?",
+    "puan": 60,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_egzersizle_azalan_agri",
+    "bolge_id": "bolge_sirt",
+    "soru_metni": "Belinizdeki ağrı ve tutukluk hareket ettikçe/egzersizle azalırken, dinlenince artıyor mu?",
+    "puan": 50,
+    "bagli_oldugu_id": "smp_gece_yarisi_bel_agrisi"
+  },
+  {
+    "id": "smp_belde_basamak_hissi",
+    "bolge_id": "bolge_sirt",
+    "soru_metni": "Bel kemiğinizin üzerinde elinizi gezdirdiğinizde bir kemiğin diğerinden daha içeride olduğu bir çöküntü hissediyor musunuz?",
+    "puan": 70,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_sabah_sertligi_bel",
+    "bolge_id": "bolge_sirt",
+    "soru_metni": "Sabahları belinizde 30 dakikadan uzun süren, doğrulmanızı engelleyen bir sertlik oluyor mu?",
+    "puan": 40,
+    "bagli_oldugu_id": null
+  },
+
+  {
+    "id": "smp_sag_ust_agri",
+    "bolge_id": "bolge_karin_genital",
+    "soru_metni": "Ağrınız karnın sağ üst tarafında (kaburga altında) mı ve sırtınıza vuruyor mu?",
+    "puan": 60,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_yagli_yemek_agri",
+    "bolge_id": "bolge_karin_genital",
+    "soru_metni": "Ağrınız özellikle yağlı yemeklerden (kızartma, yumurta vb.) sonra şiddetleniyor mu?",
+    "puan": 50,
+    "bagli_oldugu_id": "smp_sag_ust_agri"
+  },
+  {
+    "id": "smp_karin_sislik",
+    "bolge_id": "bolge_karin_genital",
+    "soru_metni": "Karnınızda sürekli bir şişkinlik, gaz sancısı ve hazımsızlık var mı?",
+    "puan": 40,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_diski_duzensiz",
+    "bolge_id": "bolge_karin_genital",
+    "soru_metni": "Tuvalet alışkanlığınızda ishal ve kabızlık arasında gidip gelen bir düzensizlik var mı?",
+    "puan": 40,
+    "bagli_oldugu_id": "smp_karin_sislik"
+  },
+  {
+    "id": "smp_diski_kan",
+    "bolge_id": "bolge_karin_genital",
+    "soru_metni": "Tuvaletinizi yaparken veya sonrasında kanama (taze kırmızı kan) görüyor musunuz?",
+    "puan": 60,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_makat_agri",
+    "bolge_id": "bolge_karin_genital",
+    "soru_metni": "Otururken veya tuvalet sırasında makat bölgesinde ağrı ve ele gelen bir şişlik var mı?",
+    "puan": 50,
+    "bagli_oldugu_id": "smp_diski_kan"
+  },
+  {
+    "id": "smp_sarilik",
+    "bolge_id": "bolge_karin_genital",
+    "soru_metni": "Göz aklarınızda veya cildinizde sararma fark ettiniz mi?",
+    "puan": 70,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_kasik_sislik_fitik",
+    "bolge_id": "bolge_karin_genital",
+    "soru_metni": "Kasığınızda veya göbek deliğinizde öksürünce/ıkınınca belirginleşen bir şişlik var mı?",
+    "puan": 60,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_kusma_shiddetli",
+    "bolge_id": "bolge_karin_genital",
+    "soru_metni": "Yediklerinizi midede tutamama ve şiddetli kusma şikayetiniz var mı?",
+    "puan": 50,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_karin_sertlik",
+    "bolge_id": "bolge_karin_genital",
+    "soru_metni": "Karnınıza dokunduğunuzda tahta gibi sert mi (defans)?",
+    "puan": 70,
+    "bagli_oldugu_id": "smp_kusma_shiddetli"
+  },
+  {
+    "id": "smp_kasinti_gece",
+    "bolge_id": "bolge_cilt",
+    "soru_metni": "Kaşıntınız özellikle geceleri yatağa girdiğinizde artıyor mu?",
+    "puan": 60,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_parmak_arasi_yara",
+    "bolge_id": "bolge_cilt",
+    "soru_metni": "Parmak aralarınızda, el bileklerinde veya karın bölgesinde küçük kırmızı tüneller/kabarcıklar var mı?",
+    "puan": 50,
+    "bagli_oldugu_id": "smp_kasinti_gece"
+  },
+  {
+    "id": "smp_leke_buyume",
+    "bolge_id": "bolge_cilt",
+    "soru_metni": "Vücudunuzdaki bir ben veya leke son zamanlarda büyüdü, şekil değiştirdi veya kanadı mı?",
+    "puan": 80,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_leke_renk_karisik",
+    "bolge_id": "bolge_cilt",
+    "soru_metni": "Bu lekenin rengi alacalı mı (kahverengi, siyah, kırmızı karışık)?",
+    "puan": 60,
+    "bagli_oldugu_id": "smp_leke_buyume"
+  },
+  {
+    "id": "smp_sivilce_iltihap",
+    "bolge_id": "bolge_cilt",
+    "soru_metni": "Yüz, sırt veya göğüs bölgesinde ağrılı, ucu beyaz veya kistik (derin) sivilceleriniz var mı?",
+    "puan": 40,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_halka_kizariqlik",
+    "bolge_id": "bolge_cilt",
+    "soru_metni": "Cildinizde halka şeklinde, kenarları kabarık ve kaşıntılı kırmızı lekeler (mantar şüphesi) var mı?",
+    "puan": 50,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_sac_dokulmesi_para",
+    "bolge_id": "bolge_cilt",
+    "soru_metni": "Saçınızda veya sakalınızda madeni para büyüklüğünde, tamamen tüysüz boşluklar (Saçkıran) oluştu mu?",
+    "puan": 60,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_cilt_kuruluk_catlak",
+    "bolge_id": "bolge_cilt",
+    "soru_metni": "Cildinizde pul pul dökülme, aşırı kuruluk ve soğukta yarılan çatlaklar var mı?",
+    "puan": 40,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_dis_sizlamasi",
+    "bolge_id": "bolge_agiz_dis",
+    "soru_metni": "Sıcak veya soğuk bir şey yiyip içerken dişlerinizde ani bir sızlama oluyor mu?",
+    "puan": 40,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_cene_kitlenmesi",
+    "bolge_id": "bolge_agiz_dis",
+    "soru_metni": "Ağzınızı açıp kapatırken çenenizden 'klik' sesi geliyor veya takılma oluyor mu?",
+    "puan": 50,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_dis_sikma",
+    "bolge_id": "bolge_agiz_dis",
+    "soru_metni": "Sabah uyandığınızda çene kaslarınızda yorgunluk veya ağrı hissediyor musunuz (Diş sıkma)?",
+    "puan": 50,
+    "bagli_oldugu_id": "smp_cene_kitlenmesi"
+  },
+  {
+    "id": "smp_agiz_yarasi",
+    "bolge_id": "bolge_agiz_dis",
+    "soru_metni": "Ağız içinde, dilde veya yanakta 2 haftadır iyileşmeyen beyaz/kırmızı yaralar var mı?",
+    "puan": 60,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_agiz_kokusu",
+    "bolge_id": "bolge_agiz_dis",
+    "soru_metni": "Düzenli fırçalamaya rağmen geçmeyen inatçı bir ağız kokusu var mı?",
+    "puan": 30,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_tat_kaybi",
+    "bolge_id": "bolge_agiz_dis",
+    "soru_metni": "Yediklerinizin tadını almakta zorlanıyor musunuz veya ağızda metalik bir tat var mı?",
+    "puan": 40,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_yutkunma_zorlugu",
+    "bolge_id": "bolge_agiz_dis",
+    "soru_metni": "Yutkunurken takılma hissi veya ağrı yaşıyor musunuz?",
+    "puan": 50,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_dil_buyumesi",
+    "bolge_id": "bolge_agiz_dis",
+    "soru_metni": "Dilinizde şişme, büyüme veya renginde (çilek kırmızısı gibi) değişim var mı?",
+    "puan": 40,
+    "bagli_oldugu_id": null
+  },
+
+  
+  {
+    "id": "smp_odaklanma_sorunu",
+    "bolge_id": "bolge_ruhsal",
+    "soru_metni": "Bir konuya odaklanmakta, okuduğunuzu anlamakta veya karar vermekte aşırı zorlanıyor musunuz?",
+    "puan": 40,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_tahammulsuzluk",
+    "bolge_id": "bolge_ruhsal",
+    "soru_metni": "Çevrenizdeki insanlara veya seslere karşı aşırı öfke ve tahammülsüzlük hissediyor musunuz?",
+    "puan": 30,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_ozguven_dusuklugu",
+    "bolge_id": "bolge_ruhsal",
+    "soru_metni": "Kendinizi değersiz, suçlu veya işe yaramaz hissediyor musunuz?",
+    "puan": 50,
+    "bagli_oldugu_id": "smp_mutsuzluk_surekli"
+  },
+  {
+    "id": "smp_halusinasyon",
+    "bolge_id": "bolge_ruhsal",
+    "soru_metni": "Başkalarının duymadığı sesler duyuyor veya görmediği şeyler görüyor musunuz?",
+    "puan": 80,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_takinti",
+    "bolge_id": "bolge_ruhsal",
+    "soru_metni": "İstemediğiniz halde aklınıza gelen, sizi rahatsız eden tekrarlayıcı düşünceler (takıntılar) var mı?",
+    "puan": 50,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_tekrarlayan_hareket",
+    "bolge_id": "bolge_ruhsal",
+    "soru_metni": "Bu düşünceleri kovmak için sürekli el yıkama, kontrol etme veya sayma gibi hareketler yapıyor musunuz?",
+    "puan": 50,
+    "bagli_oldugu_id": "smp_takinti"
+  },
+  {
+    "id": "smp_sosyal_korku",
+    "bolge_id": "bolge_ruhsal",
+    "soru_metni": "Kalabalık ortamlara girmekten, sunum yapmaktan veya yeni insanlarla tanışmaktan kaçınıyor musunuz?",
+    "puan": 40,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_hafiza_sorunu",
+    "bolge_id": "bolge_ruhsal",
+    "soru_metni": "Yakın geçmişteki olayları veya isimleri hatırlamakta belirgin güçlük çekiyor musunuz?",
+    "puan": 50,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_olum_korkusu",
+    "bolge_id": "bolge_gogus", 
+    "soru_metni": "Şikayetinizle birlikte yoğun bir ölüm korkusu veya çıldırma hissi yaşıyor musunuz?",
+    "puan": 60,
+    "bagli_oldugu_id": null
+  },
+  {
+    
+    "id": "smp_kardiyak_ana",
+    "bolge_id": "bolge_gogus",
+    "soru_metni": "Şikayetleriniz ağırlıklı olarak nefes darlığı, çabuk yorulma veya çarpıntı şeklinde mi?",
+    "puan": 40,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_efor_nefes",
+    "bolge_id": "bolge_gogus",
+    "soru_metni": "Nefes darlığınız hareket ederken artıyor mu veya gece yatınca kötüleşip oturunca rahatlıyor musunuz?",
+    "puan": 30,
+    "bagli_oldugu_id": "smp_kardiyak_ana"
+  },
+  {
+    "id": "smp_bacak_odem",
+    "bolge_id": "bolge_gogus",
+    "soru_metni": "Ayak bileklerinizde veya bacaklarınızda akşama doğru artan şişlik var mı?",
+    "puan": 20,
+    "bagli_oldugu_id": "smp_kardiyak_ana"
+  },
+  {
+    "id": "smp_gogus_sikisma",
+    "bolge_id": "bolge_gogus",
+    "soru_metni": "Göğsünüzde baskı, sıkışma veya ağırlık hissi var mı?",
+    "puan": 50,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_sol_kol_agrisi",
+    "bolge_id": "bolge_gogus",
+    "soru_metni": "Göğüs ağrınız sol kola, çeneye veya sırta yayılıyor mu?",
+    "puan": 30,
+    "bagli_oldugu_id": "smp_gogus_sikisma"
+  },
+  {
+    "id": "smp_yurume_agrisi",
+    "bolge_id": "bolge_kol_ve_bacak",
+    "soru_metni": "Bacaklarınızda yürümekle artan, dinlenince geçen bir ağrı (kramp tarzı) var mı?",
+    "puan": 40,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_ayak_sogukluk",
+    "bolge_id": "bolge_kol_ve_bacak",
+    "soru_metni": "Ayaklarınızda soğukluk veya belirgin bir renk değişikliği fark ediyor musunuz?",
+    "puan": 30,
+    "bagli_oldugu_id": "smp_yurume_agrisi"
+  },
+  {
+    "id": "smp_noropati_ana",
+    "bolge_id": "bolge_kol_ve_bacak",
+    "soru_metni": "El veya ayaklarınızda uyuşma, karıncalanma veya yanma hissi var mı?",
+    "puan": 40,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_simetrik_tutulum",
+    "bolge_id": "bolge_kol_ve_bacak",
+    "soru_metni": "Bu şikayetler vücudun her iki tarafında (hem sağ hem sol) simetrik mi?",
+    "puan": 30,
+    "bagli_oldugu_id": "smp_noropati_ana"
+  },
+  {
+    "id": "smp_corap_eldiven",
+    "bolge_id": "bolge_kol_ve_bacak",
+    "soru_metni": "Uçlarda (el/ayak) 'çorap-eldiven' tarzı bir his kaybı yaşıyor musunuz?",
+    "puan": 30,
+    "bagli_oldugu_id": "smp_noropati_ana"
+  },
+  {
+    "id": "smp_gece_el_uyusmasi",
+    "bolge_id": "bolge_kol_ve_bacak",
+    "soru_metni": "Özellikle geceleri artan el uyuşması yaşıyor musunuz?",
+    "puan": 40,
+    "bagli_oldugu_id": "smp_noropati_ana"
+  },
+  {
+    "id": "smp_el_sallama_rahatlama",
+    "bolge_id": "bolge_kol_ve_bacak",
+    "soru_metni": "Elinizi salladığınızda uyuşma hissinizde rahatlama oluyor mu?",
+    "puan": 40,
+    "bagli_oldugu_id": "smp_gece_el_uyusmasi"
+  },
+  {
+    "id": "smp_yayılan_agri",
+    "bolge_id": "bolge_sirt",
+    "soru_metni": "Boyundan kola veya belden bacağa doğru yayılan (elektrik çarpar gibi) bir ağrınız var mı?",
+    "puan": 40,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_oksuruk_agri_artisi",
+    "bolge_id": "bolge_sirt",
+    "soru_metni": "Öksürme veya hapşırma ile bu yayılan ağrınız şiddetleniyor mu?",
+    "puan": 30,
+    "bagli_oldugu_id": "smp_yayılan_agri"
+  },
+  {
+    "id": "smp_eklem_ana",
+    "bolge_id": "bolge_kol_ve_bacak",
+    "soru_metni": "Eklemlerinizde ağrı, sabah tutukluğu veya hareket kısıtlılığı var mı?",
+    "puan": 30,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_sabah_tutukluk",
+    "bolge_id": "bolge_kol_ve_bacak",
+    "soru_metni": "Sabah uyandığınızda eklemlerinizdeki katılık 30 dakikadan kısa mı sürüyor?",
+    "puan": 30,
+    "bagli_oldugu_id": "smp_eklem_ana"
+  },
+  {
+    "id": "smp_sabah_sertligi_uzun",
+    "bolge_id": "bolge_kol_ve_bacak",
+    "soru_metni": "Eklemlerinizdeki sabah tutukluğu/katılığı 1 saatten daha uzun mu sürüyor?",
+    "puan": 50,
+    "bagli_oldugu_id": "smp_eklem_ana"
+  },
+  {
+    "id": "smp_meme_kitle",
+    "bolge_id": "bolge_genel",
+    "soru_metni": "Memede elinize gelen sert ve genelde ağrısız bir kitle var mı?",
+    "puan": 60,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_meme_cilt_degisim",
+    "bolge_id": "bolge_genel",
+    "soru_metni": "Meme başında çekilme veya ciltte portakal kabuğu benzeri görünüm fark ettiniz mi?",
+    "puan": 40,
+    "bagli_oldugu_id": "smp_meme_kitle"
+  },
+  {
+    "id": "smp_horlama_yuksek",
+    "bolge_id": "bolge_bas_ve_boyun",
+    "soru_metni": "Yüksek sesle horlama veya uykuda nefes durması şikayetiniz var mı?",
+    "puan": 30,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_uyku_nefes_durmasi",
+    "bolge_id": "bolge_bas_ve_boyun",
+    "soru_metni": "Uykuda nefesinizin durduğu çevrenizdekiler tarafından doğrulandı mı?",
+    "puan": 50,
+    "bagli_oldugu_id": "smp_horlama_yuksek"
+  },
+  {
+    "id": "smp_halsizlik",
+    "bolge_id": "bolge_genel",
+    "soru_metni": "Sürekli halsizlik, çabuk yorulma veya soluk bir cilt renginiz var mı?",
+    "puan": 30,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_tirnak_sac_sorun",
+    "bolge_id": "bolge_genel",
+    "soru_metni": "Tırnaklarda kolay kırılma veya saç dökülmesinde artış fark ettiniz mi?",
+    "puan": 20,
+    "bagli_oldugu_id": "smp_halsizlik"
+  },
+
+  {
+    "id": "smp_merdiven_zorlanma",
+    "bolge_id": "bolge_kol_ve_bacak",
+    "soru_metni": "Merdiven çıkarken veya oturduğunuz yerden kalkarken belirgin bir zorlanma yaşıyor musunuz?",
+    "puan": 50,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_kas_gucsuzlugu_on_plan",
+    "bolge_id": "bolge_kol_ve_bacak",
+    "soru_metni": "Ağrıdan ziyade, kaslarınızda belirgin bir kuvvetsizlik ve tutamama hissi mi ön planda?",
+    "puan": 40,
+    "bagli_oldugu_id": "smp_merdiven_zorlanma"
+  },
+  {
+    "id": "smp_yaygin_agri",
+    "bolge_id": "bolge_genel",
+    "soru_metni": "Vücudunuzun hem sağ hem sol, hem de alt ve üst yarısında en az 3 aydır süren yaygın ağrılar var mı?",
+    "puan": 40,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_yorgun_uyanma",
+    "bolge_id": "bolge_genel",
+    "soru_metni": "Yeterince uyumanıza rağmen sabahları hiç uyumamış gibi yorgun ve bitkin mi uyanıyorsunuz?",
+    "puan": 30,
+    "bagli_oldugu_id": "smp_yaygin_agri"
+  },
+  {
+    "id": "smp_yuz_agrisi",
+    "bolge_id": "bolge_bas_ve_boyun",
+    "soru_metni": "Eğildiğinizde artan yüz ağrısı, dolgunluk hissi veya dişlere vuran bir sızı var mı?",
+    "puan": 40,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_geniz_akintisi",
+    "bolge_id": "bolge_bas_ve_boyun",
+    "soru_metni": "Burun tıkanıklığı ile birlikte koyu renkli geniz akıntısı yaşıyor musunuz?",
+    "puan": 30,
+    "bagli_oldugu_id": "smp_yuz_agrisi"
+  },
+  {
+    "id": "smp_goz_kizariklik",
+    "bolge_id": "bolge_goz",
+    "soru_metni": "Gözlerinizde kanlanma, kızarıklık veya belirgin bir yaşarma var mı?",
+    "puan": 50,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_goz_capaklanma",
+    "bolge_id": "bolge_goz",
+    "soru_metni": "Sabahları gözleriniz birbirine yapışacak kadar yoğun bir çapaklanma oluyor mu?",
+    "puan": 30,
+    "bagli_oldugu_id": "smp_goz_kizariklik"
+  },
+  {
+    "id": "smp_dis_eti_kanama",
+    "bolge_id": "bolge_agiz_dis",
+    "soru_metni": "Dişlerinizi fırçalarken veya normal zamanda diş etlerinizde kanama oluyor mu?",
+    "puan": 50,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_dis_sallanma",
+    "bolge_id": "bolge_agiz_dis",
+    "soru_metni": "Dişlerinizde sallanma veya diş etlerinizde çekilme fark ediyor musunuz?",
+    "puan": 40,
+    "bagli_oldugu_id": "smp_dis_eti_kanama"
+  },
+  {
+    "id": "smp_cilt_pullanma",
+    "bolge_id": "bolge_cilt",
+    "soru_metni": "Cildinizde gümüş renginde pullanmalarla seyreden, döküntülü ve kızarık bölgeler var mı?",
+    "puan": 60,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_mutsuzluk_surekli",
+    "bolge_id": "bolge_ruhsal",
+    "soru_metni": "Kendinizi hemen her gün, günün büyük bölümünde çökkün, mutsuz ve boşlukta hissediyor musunuz?",
+    "puan": 40,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_ilgi_kaybi",
+    "bolge_id": "bolge_ruhsal",
+    "soru_metni": "Eskiden keyif aldığınız aktivitelere karşı ilginiz azaldı mı veya hiç keyif alamıyor musunuz?",
+    "puan": 30,
+    "bagli_oldugu_id": "smp_mutsuzluk_surekli"
+  },
+  {
+    "id": "smp_metabolik_hiz_degisim",
+    "bolge_id": "bolge_metabolik",
+    "soru_metni": "İştahınız değişmemesine rağmen açıklanamayan bir kilo kaybı veya kilo artışı yaşıyor musunuz?",
+    "puan": 40,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_idrar_yanma",
+    "bolge_id": "bolge_pelvik",
+    "soru_metni": "İdrar yaparken yanma, sızı veya zorlanma şikayetiniz var mı?",
+    "puan": 50,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_tek_tarafli_bas",
+    "bolge_id": "bolge_bas_ve_boyun",
+    "soru_metni": "Baş ağrınız tek taraflı mı (sadece sağ veya sadece sol şakakta)?",
+    "puan": 50,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_isik_hassasiyeti",
+    "bolge_id": "bolge_bas_ve_boyun",
+    "soru_metni": "Baş ağrısına ışığa veya sese karşı aşırı hassasiyet eşlik ediyor mu?",
+    "puan": 40,
+    "bagli_oldugu_id": "smp_tek_tarafli_bas"
+  },
+  {
+    "id": "smp_cok_su_icme",
+    "bolge_id": "bolge_metabolik",
+    "soru_metni": "Son zamanlarda aşırı su içme ve ağız kuruluğu hissediyor musunuz?",
+    "puan": 50,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_sik_idrar",
+    "bolge_id": "bolge_pelvik",
+    "soru_metni": "Geceleri dahil olmak üzere çok sık idrara çıkıyor musunuz?",
+    "puan": 40,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_yan_agrisi",
+    "bolge_id": "bolge_sirt",
+    "soru_metni": "Böğür (yan taraf) kısmında bıçak saplanır gibi şiddetli ve kıvrandırıcı bir ağrı var mı?",
+    "puan": 60,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_kanli_idrar",
+    "bolge_id": "bolge_pelvik",
+    "soru_metni": "İdrar renginizde pembelik veya kan gördünüz mü?",
+    "puan": 50,
+    "bagli_oldugu_id": "smp_yan_agrisi"
+  },
+  {
+    "id": "smp_sag_alt_karin",
+    "bolge_id": "bolge_karin_genital",
+    "soru_metni": "Ağrınız karnın sağ alt köşesinde yoğunlaşıyor mu?",
+    "puan": 70,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_karin_hassasiyet",
+    "bolge_id": "bolge_karin_genital",
+    "soru_metni": "Karnınıza bastırıp elinizi hızla çektiğinizde ağrı şiddetleniyor mu?",
+    "puan": 50,
+    "bagli_oldugu_id": "smp_sag_alt_karin"
+  },
+  {
+    "id": "smp_mide_kazınma",
+    "bolge_id": "bolge_karin_genital",
+    "soru_metni": "Aç kaldığınızda midede kazınma veya yanma hissediyor, yemek yiyince rahatlıyor musunuz?",
+    "puan": 40,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_yuksek_tansiyon_belirti",
+    "bolge_id": "bolge_bas_ve_boyun",
+    "soru_metni": "Ense kökünden başlayan ağrı, kulak çınlaması veya yüzde sıcaklık hissi var mı?",
+    "puan": 50,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_nefes_hirilti",
+    "bolge_id": "bolge_gogus",
+    "soru_metni": "Nefes alıp verirken göğsünüzden ıslık sesi veya hırıltı geliyor mu?",
+    "puan": 40,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_kasinti_kabarti",
+    "bolge_id": "bolge_cilt",
+    "soru_metni": "Cildinizde şiddetli kaşıntı yapan kızarık kabarcıklar veya sulanma var mı?",
+    "puan": 50,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_diz_kilitlenme",
+    "bolge_id": "bolge_kol_ve_bacak",
+    "soru_metni": "Dizinizde takılma, kilitlenme veya 'boşluğa basma' hissi oluyor mu?",
+    "puan": 50,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_bogaz_agrisi",
+    "bolge_id": "bolge_bas_ve_boyun",
+    "soru_metni": "Yutkunurken zorlanma ve boğazda batma hissi var mı?",
+    "puan": 40,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_ates_yuksek",
+    "bolge_id": "bolge_genel",
+    "soru_metni": "Vücut ateşiniz 38 derecenin üzerinde mi?",
+    "puan": 40,
+    "bagli_oldugu_id": null
+  },
+  
+  {
+    "id": "smp_goz_hale",
+    "bolge_id": "bolge_goz",
+    "soru_metni": "Işıklara baktığınızda etrafında hareler veya renkli halkalar görüyor musunuz?",
+    "puan": 60,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_goz_sinek",
+    "bolge_id": "bolge_goz",
+    "soru_metni": "Gözünüzün önünde uçuşan siyah noktalar, sinekler veya örümcek ağı gibi görüntüler var mı?",
+    "puan": 40,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_goz_isik_cakmasi",
+    "bolge_id": "bolge_goz",
+    "soru_metni": "Sanki şimşek çakıyormuş gibi ani ışık parlamaları görüyor musunuz?",
+    "puan": 70,
+    "bagli_oldugu_id": "smp_goz_sinek"
+  },
+  {
+    "id": "smp_goz_perde",
+    "bolge_id": "bolge_goz",
+    "soru_metni": "Görmenizin bir kısmında sanki siyah bir perde inmiş gibi karanlık bir alan var mı?",
+    "puan": 80,
+    "bagli_oldugu_id": "smp_goz_isik_cakmasi"
+  },
+  {
+    "id": "smp_goz_ani_agri",
+    "bolge_id": "bolge_goz",
+    "soru_metni": "Gözünüzde aniden başlayan, mide bulantısı yapacak kadar şiddetli bir ağrı var mı?",
+    "puan": 70,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_goz_renk_soluk",
+    "bolge_id": "bolge_goz",
+    "soru_metni": "Renkleri eskisi kadar canlı göremiyor, sanki kirli bir camın arkasından bakıyor gibi misiniz?",
+    "puan": 40,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_goz_gece_gorus",
+    "bolge_id": "bolge_goz",
+    "soru_metni": "Özellikle geceleri veya loş ışıkta görme kaliteniz belirgin şekilde düşüyor mu?",
+    "puan": 50,
+    "bagli_oldugu_id": "smp_goz_renk_soluk"
+  },
+  {
+    "id": "smp_goz_cift_gorme",
+    "bolge_id": "bolge_goz",
+    "soru_metni": "Tek gözle veya iki gözle baktığınızda nesneleri çift görüyor musunuz?",
+    "puan": 50,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_goz_kuruluk_batma",
+    "bolge_id": "bolge_goz",
+    "soru_metni": "Gözlerinizde kum varmış gibi batma, yanma ve sık sık kırpma ihtiyacı hissediyor musunuz?",
+    "puan": 40,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_goz_yasarma",
+    "bolge_id": "bolge_goz",
+    "soru_metni": "Gözlerinizde rüzgarda veya durup dururken aşırı sulanma/yaşarma oluyor mu?",
+    "puan": 30,
+    "bagli_oldugu_id": "smp_goz_kuruluk_batma"
+  },
+
+  
+  {
+    "id": "smp_asiri_terleme",
+    "bolge_id": "bolge_metabolik",
+    "soru_metni": "Hava sıcak olmasa bile aşırı terleme veya sıcağa karşı tahammülsüzlük yaşıyor musunuz?",
+    "puan": 50,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_el_titremesi",
+    "bolge_id": "bolge_metabolik",
+    "soru_metni": "Ellerinizde ince ince titreme fark ettiniz mi?",
+    "puan": 40,
+    "bagli_oldugu_id": "smp_asiri_terleme"
+  },
+  {
+    "id": "smp_carpinti_durgun",
+    "bolge_id": "bolge_metabolik",
+    "soru_metni": "Oturduğunuz yerde kalbinizin çok hızlı veya düzensiz attığını hissediyor musunuz?",
+    "puan": 50,
+    "bagli_oldugu_id": "smp_el_titremesi"
+  },
+  {
+    "id": "smp_kilo_kaybi_istahli",
+    "bolge_id": "bolge_metabolik",
+    "soru_metni": "İştahınız açık olmasına ve çok Yemenize rağmen kilo kaybediyor musunuz?",
+    "puan": 60,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_kilo_alma_istahsiz",
+    "bolge_id": "bolge_metabolik",
+    "soru_metni": "Az yemenize rağmen sürekli kilo alıyor ve vermekte zorlanıyor musunuz?",
+    "puan": 60,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_soguga_tahammulsuzluk",
+    "bolge_id": "bolge_metabolik",
+    "soru_metni": "Başkaları üşümezken siz aşırı üşüyor musunuz?",
+    "puan": 40,
+    "bagli_oldugu_id": "smp_kilo_alma_istahsiz"
+  },
+  {
+    "id": "smp_cilt_kurulugu_asiri",
+    "bolge_id": "bolge_metabolik",
+    "soru_metni": "Cildinizde pullanacak kadar kuruluk ve saçlarınızda kabalaşma/dökülme var mı?",
+    "puan": 30,
+    "bagli_oldugu_id": "smp_kilo_alma_istahsiz"
+  },
+  {
+    "id": "smp_yuz_sismesi",
+    "bolge_id": "bolge_metabolik",
+    "soru_metni": "Sabahları yüzünüzde ve göz kapaklarınızda belirgin şişlik oluyor mu?",
+    "puan": 40,
+    "bagli_oldugu_id": null
+  },
+  
+  
+  {
+    "id": "smp_idrar_baslatma",
+    "bolge_id": "bolge_pelvik",
+    "soru_metni": "İdrarınızı yapmaya başlamada zorlanıyor veya ıkınma ihtiyacı duyuyor musunuz?",
+    "puan": 50,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_idrar_akimi_zayif",
+    "bolge_id": "bolge_pelvik",
+    "soru_metni": "İdrar akışınızın hızı ve basıncı eskiye göre azaldı mı (kesik kesik yapma)?",
+    "puan": 40,
+    "bagli_oldugu_id": "smp_idrar_baslatma"
+  },
+  {
+    "id": "smp_idrar_bitmeme",
+    "bolge_id": "bolge_pelvik",
+    "soru_metni": "Tuvaletten çıktıktan hemen sonra tekrar idrar yapma hissi oluşuyor mu?",
+    "puan": 40,
+    "bagli_oldugu_id": "smp_idrar_baslatma"
+  },
+  {
+    "id": "smp_gece_idrar",
+    "bolge_id": "bolge_pelvik",
+    "soru_metni": "Gece uykunuzdan uyanıp 2 defadan fazla tuvalete gitme ihtiyacı duyuyor musunuz?",
+    "puan": 40,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_kopuklu_idrar",
+    "bolge_id": "bolge_pelvik",
+    "soru_metni": "İdrarınızda deterjan köpüğü gibi geçmeyen bir köpürme fark ettiniz mi?",
+    "puan": 60,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_bacak_odem_cukur",
+    "bolge_id": "bolge_pelvik",
+    "soru_metni": "Bacaklarınıza parmağınızla bastırdığınızda çukur oluşuyor ve düzelmesi zaman alıyor mu (Ödem)?",
+    "puan": 50,
+    "bagli_oldugu_id": "smp_kopuklu_idrar"
+  },
+  {
+    "id": "smp_kasik_agrisi",
+    "bolge_id": "bolge_pelvik",
+    "soru_metni": "Kasık bölgesinde veya yumurtalıklarda/testislerde künt bir ağrı var mı?",
+    "puan": 40,
+    "bagli_oldugu_id": null
+  },
+  {
+    "id": "smp_adet_duzensiz",
+    "bolge_id": "bolge_pelvik",
+    "soru_metni": "(Kadınlar için) Adet döngülerinizde düzensizlik veya aşırı ağrı var mı?",
+    "puan": 40,
+    "bagli_oldugu_id": null
+  }
+]

@@ -1,0 +1,482 @@
+[
+    {
+        "id": 3,
+        "tarih": "22:11",
+        "yas": "20",
+        "cinsiyet": "Kadın",
+        "tani": "Demir Eksikliği Anemisi",
+        "kanser_riski": 0
+    },
+    {
+        "id": 4,
+        "tarih": "22:21",
+        "yas": "20",
+        "cinsiyet": "Kadın",
+        "tani": "Servikal / Lomber Disk Hernisi (Boyun-Bel Fıtığı)",
+        "kanser_riski": 0
+    },
+    {
+        "id": 5,
+        "tarih": "22:24",
+        "yas": "21",
+        "cinsiyet": "Kadın",
+        "tani": "Spinal Stenoz (Kanal Daralması)",
+        "kanser_riski": 0
+    },
+    {
+        "id": 6,
+        "tarih": "22:25",
+        "yas": "21",
+        "cinsiyet": "Kadın",
+        "tani": "Belirtisiz",
+        "kanser_riski": 0
+    },
+    {
+        "id": 7,
+        "tarih": "22:28",
+        "yas": "20",
+        "cinsiyet": "Kadın",
+        "tani": "Gastrit / Mide Ülseri",
+        "kanser_riski": 0
+    },
+    {
+        "id": 8,
+        "tarih": "22:29",
+        "yas": "20",
+        "cinsiyet": "Erkek",
+        "tani": "Kuru Göz Sendromu",
+        "kanser_riski": 0
+    },
+    {
+        "id": 9,
+        "tarih": "22:34",
+        "yas": "25",
+        "cinsiyet": "Erkek",
+        "tani": "Miyopati (Kas Hastalığı)",
+        "kanser_riski": 0
+    },
+    {
+        "id": 8,
+        "tarih": "09:43",
+        "yas": "21",
+        "cinsiyet": "Kadın",
+        "tani": "Melanom (Cilt Kanseri) Şüphesi",
+        "kanser_riski": 38
+    },
+    {
+        "id": 9,
+        "tarih": "12:14",
+        "yas": "23",
+        "cinsiyet": "Kadın",
+        "tani": "Uyku Apne Sendromu",
+        "kanser_riski": 0
+    },
+    {
+        "id": 10,
+        "tarih": "12:15",
+        "yas": "21",
+        "cinsiyet": "Erkek",
+        "tani": "Kalp Krizi (Akut Miyokard Enfarktüsü)",
+        "kanser_riski": 0
+    },
+    {
+        "id": 11,
+        "tarih": "12:18",
+        "yas": "22",
+        "cinsiyet": "Erkek",
+        "tani": "Kronik Kalp Yetmezliği",
+        "kanser_riski": 0
+    },
+    {
+        "id": 12,
+        "tarih": "12:21",
+        "yas": "22",
+        "cinsiyet": "Erkek",
+        "tani": "Katarakt",
+        "kanser_riski": 0
+    },
+    {
+        "id": 13,
+        "tarih": "12:26",
+        "yas": "19",
+        "cinsiyet": "Kadın",
+        "tani": "Belirtisiz",
+        "kanser_riski": 0
+    },
+    {
+        "id": 14,
+        "tarih": "12:28",
+        "yas": "24",
+        "cinsiyet": "Erkek",
+        "tani": "Belirtisiz",
+        "kanser_riski": 0
+    },
+    {
+        "id": 15,
+        "tarih": "12:29",
+        "yas": "22",
+        "cinsiyet": "Kadın",
+        "tani": "Karpal Tünel Sendromu",
+        "kanser_riski": 0
+    },
+    {
+        "id": 16,
+        "tarih": "12:32",
+        "yas": "52",
+        "cinsiyet": "Erkek",
+        "tani": "Belirtisiz",
+        "kanser_riski": 0
+    },
+    {
+        "id": 17,
+        "tarih": "12:35",
+        "yas": "19",
+        "cinsiyet": "Erkek",
+        "tani": "Obsesif Kompulsif Bozukluk (OKB)",
+        "kanser_riski": 0
+    },
+    {
+        "id": 18,
+        "tarih": "12:39",
+        "yas": "54",
+        "cinsiyet": "Kadın",
+        "tani": "Polinöropati (Yaygın Sinir Hasarı)",
+        "kanser_riski": 0
+    },
+    {
+        "id": 19,
+        "tarih": "12:59",
+        "yas": "25",
+        "cinsiyet": "Erkek",
+        "tani": "Uyku Apne Sendromu",
+        "kanser_riski": 0
+    },
+    {
+        "id": 20,
+        "tarih": "13:25",
+        "yas": "18",
+        "cinsiyet": "Erkek",
+        "tani": "Migren",
+        "kanser_riski": 0
+    },
+    {
+        "id": 21,
+        "tarih": "13:26",
+        "yas": "20",
+        "cinsiyet": "Kadın",
+        "tani": "Belirtisiz",
+        "kanser_riski": 0
+    },
+    {
+        "id": 22,
+        "tarih": "13:29",
+        "yas": "20",
+        "cinsiyet": "Kadın",
+        "tani": "Kalp Krizi (Akut Miyokard Enfarktüsü)",
+        "kanser_riski": 0
+    },
+    {
+        "id": 23,
+        "tarih": "13:31",
+        "yas": "21",
+        "cinsiyet": "Erkek",
+        "tani": "Belirtisiz",
+        "kanser_riski": 0
+    },
+    {
+        "id": 24,
+        "tarih": "13:39",
+        "yas": "20",
+        "cinsiyet": "Kadın",
+        "tani": "Yüksek Onkolojik Risk Şüphesi (Oral Mukoza Hastalığı / Tümör Şüphesi Bulguları)",
+        "kanser_riski": 46
+    },
+    {
+        "id": 25,
+        "tarih": "13:42",
+        "yas": "22",
+        "cinsiyet": "Erkek",
+        "tani": "Obsesif Kompulsif Bozukluk (OKB)",
+        "kanser_riski": 0
+    },
+    {
+        "id": 26,
+        "tarih": "13:44",
+        "yas": "23",
+        "cinsiyet": "Kadın",
+        "tani": "Migren",
+        "kanser_riski": 0
+    },
+    {
+        "id": 27,
+        "tarih": "13:46",
+        "yas": "19",
+        "cinsiyet": "Erkek",
+        "tani": "Spinal Stenoz (Kanal Daralması)",
+        "kanser_riski": 0
+    },
+    {
+        "id": 28,
+        "tarih": "13:52",
+        "yas": "21",
+        "cinsiyet": "Erkek",
+        "tani": "Servikal / Lomber Disk Hernisi (Boyun-Bel Fıtığı)",
+        "kanser_riski": 0
+    },
+    {
+        "id": 29,
+        "tarih": "13:54",
+        "yas": "20",
+        "cinsiyet": "Erkek",
+        "tani": "Demir Eksikliği Anemisi",
+        "kanser_riski": 0
+    },
+    {
+        "id": 30,
+        "tarih": "13:58",
+        "yas": "21",
+        "cinsiyet": "Erkek",
+        "tani": "Scabies (Uyuz Hastalığı)",
+        "kanser_riski": 0
+    },
+    {
+        "id": 31,
+        "tarih": "14:01",
+        "yas": "18",
+        "cinsiyet": "Erkek",
+        "tani": "Yüksek Onkolojik Risk Şüphesi (Melanom (Cilt Kanseri) Şüphesi Bulguları)",
+        "kanser_riski": 53
+    },
+    {
+        "id": 32,
+        "tarih": "14:03",
+        "yas": "20",
+        "cinsiyet": "Erkek",
+        "tani": "Katarakt",
+        "kanser_riski": 0
+    },
+    {
+        "id": 33,
+        "tarih": "14:05",
+        "yas": "20",
+        "cinsiyet": "Erkek",
+        "tani": "Belirtisiz",
+        "kanser_riski": 0
+    },
+    {
+        "id": 34,
+        "tarih": "14:07",
+        "yas": "19",
+        "cinsiyet": "Kadın",
+        "tani": "Hipertansiyon (Yüksek Tansiyon)",
+        "kanser_riski": 0
+    },
+    {
+        "id": 35,
+        "tarih": "14:07",
+        "yas": "19",
+        "cinsiyet": "Erkek",
+        "tani": "Belirtisiz",
+        "kanser_riski": 0
+    },
+    {
+        "id": 36,
+        "tarih": "14:08",
+        "yas": "22",
+        "cinsiyet": "Kadın",
+        "tani": "Polinöropati (Yaygın Sinir Hasarı)",
+        "kanser_riski": 0
+    },
+    {
+        "id": 37,
+        "tarih": "14:12",
+        "yas": "17",
+        "cinsiyet": "Erkek",
+        "tani": "Periferik Arter Hastalığı (Bacak Damar Tıkanıklığı)",
+        "kanser_riski": 0
+    },
+    {
+        "id": 38,
+        "tarih": "14:12",
+        "yas": "18",
+        "cinsiyet": "Erkek",
+        "tani": "Hipertansiyon (Yüksek Tansiyon)",
+        "kanser_riski": 0
+    },
+    {
+        "id": 39,
+        "tarih": "14:13",
+        "yas": "17",
+        "cinsiyet": "Erkek",
+        "tani": "Panik Atak (Anksiyete Kriz)",
+        "kanser_riski": 0
+    },
+    {
+        "id": 40,
+        "tarih": "14:15",
+        "yas": "19",
+        "cinsiyet": "Kadın",
+        "tani": "Belirtisiz",
+        "kanser_riski": 0
+    },
+    {
+        "id": 41,
+        "tarih": "14:16",
+        "yas": "20",
+        "cinsiyet": "Kadın",
+        "tani": "Demir Eksikliği Anemisi",
+        "kanser_riski": 0
+    },
+    {
+        "id": 42,
+        "tarih": "14:17",
+        "yas": "20",
+        "cinsiyet": "Erkek",
+        "tani": "Deri Mantarı (Tinea)",
+        "kanser_riski": 0
+    },
+    {
+        "id": 43,
+        "tarih": "14:18",
+        "yas": "17",
+        "cinsiyet": "Erkek",
+        "tani": "Karpal Tünel Sendromu",
+        "kanser_riski": 0
+    },
+    {
+        "id": 44,
+        "tarih": "14:19",
+        "yas": "19",
+        "cinsiyet": "Kadın",
+        "tani": "Obsesif Kompulsif Bozukluk (OKB)",
+        "kanser_riski": 0
+    },
+    {
+        "id": 45,
+        "tarih": "14:20",
+        "yas": "27",
+        "cinsiyet": "Kadın",
+        "tani": "Belirtisiz",
+        "kanser_riski": 0
+    },
+    {
+        "id": 46,
+        "tarih": "14:21",
+        "yas": "21",
+        "cinsiyet": "Erkek",
+        "tani": "Belirtisiz",
+        "kanser_riski": 0
+    },
+    {
+        "id": 47,
+        "tarih": "14:25",
+        "yas": "24",
+        "cinsiyet": "Erkek",
+        "tani": "Menisküs Yırtığı",
+        "kanser_riski": 0
+    },
+    {
+        "id": 48,
+        "tarih": "14:27",
+        "yas": "21",
+        "cinsiyet": "Kadın",
+        "tani": "Miyopati (Kas Hastalığı)",
+        "kanser_riski": 0
+    },
+    {
+        "id": 49,
+        "tarih": "14:29",
+        "yas": "20",
+        "cinsiyet": "Erkek",
+        "tani": "Katarakt",
+        "kanser_riski": 0
+    },
+    {
+        "id": 50,
+        "tarih": "14:30",
+        "yas": "20",
+        "cinsiyet": "Kadın",
+        "tani": "Ankilozan Spondilit (İltihaplı Bel Romatizması)",
+        "kanser_riski": 0
+    },
+    {
+        "id": 51,
+        "tarih": "14:33",
+        "yas": "28",
+        "cinsiyet": "Erkek",
+        "tani": "Scabies (Uyuz Hastalığı)",
+        "kanser_riski": 0
+    },
+    {
+        "id": 52,
+        "tarih": "14:39",
+        "yas": "20",
+        "cinsiyet": "Kadın",
+        "tani": "Kronik Kalp Yetmezliği",
+        "kanser_riski": 0
+    },
+    {
+        "id": 53,
+        "tarih": "14:50",
+        "yas": "25",
+        "cinsiyet": "Erkek",
+        "tani": "Bruksizm (Diş Sıkma ve Gıcırdatma)",
+        "kanser_riski": 0
+    },
+    {
+        "id": 54,
+        "tarih": "15:00",
+        "yas": "25",
+        "cinsiyet": "Erkek",
+        "tani": "Uyku Apne Sendromu",
+        "kanser_riski": 0
+    },
+    {
+        "id": 55,
+        "tarih": "15:05",
+        "yas": "25",
+        "cinsiyet": "Kadın",
+        "tani": "Belirtisiz",
+        "kanser_riski": 0
+    },
+    {
+        "id": 56,
+        "tarih": "15:10",
+        "yas": "21",
+        "cinsiyet": "Erkek",
+        "tani": "Hemoroid (Basur) / Anal Fissür",
+        "kanser_riski": 0
+    },
+    {
+        "id": 57,
+        "tarih": "15:12",
+        "yas": "21",
+        "cinsiyet": "Erkek",
+        "tani": "Kronik Kalp Yetmezliği",
+        "kanser_riski": 0
+    },
+    {
+        "id": 58,
+        "tarih": "15:13",
+        "yas": "21",
+        "cinsiyet": "Erkek",
+        "tani": "Demir Eksikliği Anemisi",
+        "kanser_riski": 33
+    },
+    {
+        "id": 59,
+        "tarih": "15:40",
+        "yas": "22",
+        "cinsiyet": "Erkek",
+        "tani": "Scabies (Uyuz Hastalığı)",
+        "kanser_riski": 0
+    },
+    {
+        "id": 60,
+        "tarih": "16:42",
+        "yas": "19",
+        "cinsiyet": "Erkek",
+        "tani": "Akut Sinüzit",
+        "kanser_riski": 0
+    }
+]

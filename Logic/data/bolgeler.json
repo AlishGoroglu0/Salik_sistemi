@@ -1,0 +1,14 @@
+[
+  { "id": "bolge_bas_ve_boyun", "ad": "Baş ve Boyun", "numericID": 0 },
+  { "id": "bolge_gogus", "ad": "Göğüs Bölgesi ve Kalp-Akciğer", "numericID": 1 },
+  { "id": "bolge_kol_ve_bacak", "ad": "Kollar, Bacaklar ve Eklemler", "numericID": 2 },
+  { "id": "bolge_karin_genital", "ad": "Karın, Mide ve Genital Bölge", "numericID": 3 },
+  { "id": "bolge_sirt", "ad": "Sırt ve Bel Bölgesi", "numericID": 4 },
+  { "id": "bolge_genel", "ad": "Genel Durum (Halsizlik, Kitle, Ateş vb.)", "numericID": 5 },
+  { "id": "bolge_goz", "ad": "Göz ve Görme Şikayetleri", "numericID": 6 },
+  { "id": "bolge_agiz_dis", "ad": "Ağız, Diş ve Çene Sağlığı", "numericID": 7 },
+  { "id": "bolge_cilt", "ad": "Cilt, Deri ve Tırnak Sorunları", "numericID": 8 },
+  { "id": "bolge_ruhsal", "ad": "Psikolojik ve Ruhsal Durum", "numericID": 9 },
+  { "id": "bolge_pelvik", "ad": "Boşaltım Sistemi ve Pelvik Bölge", "numericID": 10 },
+  { "id": "bolge_metabolik", "ad": "Hormonal ve Metabolik Değişimler", "numericID": 11 }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "hastalik_adi": "Akut Sinüzit",
+        "ham_yuzde": 50.0,
+        "bolum": "Kulak Burun Boğaz (KBB)",
+        "adres": "C Blok, 1. Kat, Rinoloji Polikliniği.",
+        "kategori": "FIZIKSEL",
+        "yuzde": 33
+    },
+    {
+        "hastalik_adi": "Periodontit (Diş Eti Hastalığı)",
+        "ham_yuzde": 50.0,
+        "bolum": "Ağız, Diş ve Çene Cerrahisi / Periodontoloji",
+        "adres": "Diş Hekimliği Fakültesi veya Hastane Ek Hizmet Binası, Diş Kliniği.",
+        "kategori": "FIZIKSEL",
+        "yuzde": 33
+    },
+    {
+        "hastalik_adi": "Hipertansiyon (Yüksek Tansiyon)",
+        "ham_yuzde": 50.0,
+        "bolum": "Kardiyoloji / Nefroloji",
+        "adres": "A Blok, 1. Kat, Tansiyon Holter Birimi.",
+        "kategori": "KARDIYOLOJI",
+        "yuzde": 33
+    }
+]

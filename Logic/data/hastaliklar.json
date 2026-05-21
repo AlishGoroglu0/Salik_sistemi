@@ -1,0 +1,733 @@
+[
+  
+  {
+    "id": "hst_spinal_stenoz",
+    "ad": "Spinal Stenoz (Kanal Daralması)",
+    "risk_esigi": 55,
+    "kategori": "BEYIN_CERRAHI_FTR",
+    "semptom_agirliklari": {
+      "smp_yurume_mesafesi_kisalma": 60,
+      "smp_one_egilince_rahatlama": 50,
+      "smp_bacak_uyusma_yaygin": 30
+    }
+  },
+  {
+    "id": "hst_ankilozan_spondilit",
+    "ad": "Ankilozan Spondilit (İltihaplı Bel Romatizması)",
+    "risk_esigi": 60,
+    "kategori": "ROMATOLOJI",
+    "semptom_agirliklari": {
+      "smp_gece_yarisi_bel_agrisi": 60,
+      "smp_egzersizle_azalan_agri": 50,
+      "smp_sabah_sertligi_bel": 40
+    }
+  },
+  {
+    "id": "hst_bel_kaymasi",
+    "ad": "Spondilolistezis (Bel Kayması)",
+    "risk_esigi": 50,
+    "kategori": "ORTOPEDI_BEYIN_CERRAHI",
+    "semptom_agirliklari": {
+      "smp_belde_basamak_hissi": 70,
+      "smp_ayakta_durunca_bel_agrisi": 40,
+      "smp_bacak_arkasi_gerilme": 30
+    }
+  },
+
+  {
+    "id": "hst_safra_tasi",
+    "ad": "Safra Kesesi Taşı / İltihabı",
+    "risk_esigi": 55,
+    "kategori": "GENEL_CERRAHI",
+    "semptom_agirliklari": {
+      "smp_sag_ust_agri": 60,
+      "smp_yagli_yemek_agri": 50,
+      "smp_bulanti": 30
+    }
+  },
+  {
+    "id": "hst_ibs",
+    "ad": "Huzursuz Bağırsak Sendromu (IBS)",
+    "risk_esigi": 45,
+    "kategori": "GASTRO",
+    "semptom_agirliklari": {
+      "smp_karin_sislik": 50,
+      "smp_diski_duzensiz": 50,
+      "smp_mide_yanma": 20
+    }
+  },
+  {
+    "id": "hst_hemoroid",
+    "ad": "Hemoroid (Basur) / Anal Fissür",
+    "risk_esigi": 50,
+    "kategori": "GENEL_CERRAHI",
+    "semptom_agirliklari": {
+      "smp_diski_kan": 60,
+      "smp_makat_agri": 50,
+      "smp_kabizlik": 20
+    }
+  },
+  {
+    "id": "hst_hepatit",
+    "ad": "Hepatit / Karaciğer Yetmezliği Şüphesi",
+    "risk_esigi": 60,
+    "kategori": "ENFEKSIYON_GASTRO",
+    "semptom_agirliklari": {
+      "smp_sarilik": 80,
+      "smp_halsizlik": 30,
+      "smp_sag_ust_agri": 20,
+      "smp_idrar_rengi_koyu": 30
+    }
+  },
+  {
+    "id": "hst_kasik_fitigi",
+    "ad": "İnguinal Herni (Kasık Fıtığı)",
+    "risk_esigi": 55,
+    "kategori": "GENEL_CERRAHI",
+    "semptom_agirliklari": {
+      "smp_kasik_sislik_fitik": 80,
+      "smp_agri_hareketle": 30
+    }
+  },
+  {
+    "id": "hst_gida_zehirlenmesi",
+    "ad": "Akut Gastroenterit (Gıda Zehirlenmesi)",
+    "risk_esigi": 50,
+    "kategori": "ACIL_DAHILIYE",
+    "semptom_agirliklari": {
+      "smp_kusma_shiddetli": 50,
+      "smp_ishal": 40,
+      "smp_ates": 20,
+      "smp_karin_agrisi": 30
+    }
+  },
+  {
+    "id": "hst_uyuz",
+    "ad": "Scabies (Uyuz Hastalığı)",
+    "risk_esigi": 60,
+    "kategori": "DERMATOLOJI",
+    "semptom_agirliklari": {
+      "smp_kasinti_gece": 70,
+      "smp_parmak_arasi_yara": 60,
+      "smp_kasinti_kabarti": 30
+    }
+  },
+  {
+    "id": "hst_melanom",
+    "ad": "Melanom (Cilt Kanseri) Şüphesi",
+    "risk_esigi": 70,
+    "kategori": "ONKOLOJI",
+    "semptom_agirliklari": {
+      "smp_leke_buyume": 70,
+      "smp_leke_renk_karisik": 50,
+      "smp_cilt_pullanma": 10
+    }
+  },
+  {
+    "id": "hst_akne",
+    "ad": "Akne Vulgaris (Şiddetli Sivilce)",
+    "risk_esigi": 40,
+    "kategori": "DERMATOLOJI",
+    "semptom_agirliklari": {
+      "smp_sivilce_iltihap": 60,
+      "smp_cilt_kizariklik": 20
+    }
+  },
+  {
+    "id": "hst_mantar",
+    "ad": "Deri Mantarı (Tinea)",
+    "risk_esigi": 45,
+    "kategori": "DERMATOLOJI",
+    "semptom_agirliklari": {
+      "smp_halka_kizariqlik": 60,
+      "smp_kasinti_kabarti": 40
+    }
+  },
+  {
+    "id": "hst_sackiran",
+    "ad": "Alopesi Areata (Saçkıran)",
+    "risk_esigi": 55,
+    "kategori": "DERMATOLOJI",
+    "semptom_agirliklari": {
+      "smp_sac_dokulmesi_para": 70,
+      "smp_sac_dokulmesi_asiri": 30
+    }
+  },
+  {
+    "id": "hst_bruksizm",
+    "ad": "Bruksizm (Diş Sıkma ve Gıcırdatma)",
+    "risk_esigi": 50,
+    "kategori": "DIS",
+    "semptom_agirliklari": {
+      "smp_dis_sikma": 60,
+      "smp_cene_kitlenmesi": 40,
+      "smp_yuz_agrisi": 30,
+      "smp_bas_agrisi": 20
+    }
+  },
+  {
+    "id": "hst_agiz_kanseri",
+    "ad": "Oral Mukoza Hastalığı / Tümör Şüphesi",
+    "risk_esigi": 65,
+    "kategori": "DIS_CENE",
+    "semptom_agirliklari": {
+      "smp_agiz_yarasi": 70,
+      "smp_yutkunma_zorlugu": 40,
+      "smp_dil_buyumesi": 40
+    }
+  },
+  {
+    "id": "hst_okb",
+    "ad": "Obsesif Kompulsif Bozukluk (OKB)",
+    "risk_esigi": 55,
+    "kategori": "PSIKOLOJIK",
+    "semptom_agirliklari": {
+      "smp_takinti": 50,
+      "smp_tekrarlayan_hareket": 50,
+      "smp_tahammulsuzluk": 20
+    }
+  },
+  {
+    "id": "hst_alzheimer_erken",
+    "ad": "Erken Evre Demans / Alzheimer Şüphesi",
+    "risk_esigi": 60,
+    "kategori": "NOROLOJI_PSIKO",
+    "semptom_agirliklari": {
+      "smp_hafiza_sorunu": 60,
+      "smp_odaklanma_sorunu": 30,
+      "smp_ilgi_kaybi": 20
+    }
+  },
+  {
+    "id": "hst_sosyal_fobi",
+    "ad": "Sosyal Anksiyete Bozukluğu",
+    "risk_esigi": 50,
+    "kategori": "PSIKOLOJIK",
+    "semptom_agirliklari": {
+      "smp_sosyal_korku": 60,
+      "smp_carpinti_durgun": 30,
+      "smp_yuz_kizarikligi": 20
+    }
+  },
+  {
+    "id": "hst_glokom",
+    "ad": "Glokom (Göz Tansiyonu)",
+    "risk_esigi": 55,
+    "kategori": "GOZ",
+    "semptom_agirliklari": {
+      "smp_goz_ani_agri": 60,
+      "smp_goz_hale": 50,
+      "smp_bas_donmesi": 20,
+      "smp_bulanti": 20,
+      "smp_goz_kizariklik": 20
+    }
+  },
+  {
+    "id": "hst_katarakt",
+    "ad": "Katarakt",
+    "risk_esigi": 50,
+    "kategori": "GOZ",
+    "semptom_agirliklari": {
+      "smp_goz_renk_soluk": 50,
+      "smp_goz_gece_gorus": 40,
+      "smp_goz_cift_gorme": 30,
+      "smp_goz_hale": 20
+    }
+  },
+  {
+    "id": "hst_retina_dekolmani",
+    "ad": "Retina Dekolmanı / Yırtığı",
+    "risk_esigi": 65,
+    "kategori": "GOZ_ACIL",
+    "semptom_agirliklari": {
+      "smp_goz_isik_cakmasi": 60,
+      "smp_goz_perde": 70,
+      "smp_goz_sinek": 40
+    }
+  },
+  {
+    "id": "hst_kuru_goz",
+    "ad": "Kuru Göz Sendromu",
+    "risk_esigi": 40,
+    "kategori": "GOZ",
+    "semptom_agirliklari": {
+      "smp_goz_kuruluk_batma": 60,
+      "smp_goz_yasarma": 40,
+      "smp_goz_kizariklik": 30
+    }
+  },
+  {
+    "id": "hst_hipertiroidi",
+    "ad": "Hipertiroidi (Zehirli Guatr)",
+    "risk_esigi": 55,
+    "kategori": "ENDOKRIN",
+    "semptom_agirliklari": {
+      "smp_kilo_kaybi_istahli": 50,
+      "smp_asiri_terleme": 40,
+      "smp_el_titremesi": 30,
+      "smp_carpinti_durgun": 30,
+      "smp_sac_dokulmesi_asiri": 20
+    }
+  },
+  {
+    "id": "hst_hipotiroidi",
+    "ad": "Hipotiroidi (Hashimoto)",
+    "risk_esigi": 50,
+    "kategori": "ENDOKRIN",
+    "semptom_agirliklari": {
+      "smp_kilo_alma_istahsiz": 50,
+      "smp_soguga_tahammulsuzluk": 40,
+      "smp_cilt_kurulugu_asiri": 30,
+      "smp_halsizlik": 30,
+      "smp_yuz_sismesi": 20
+    }
+  },
+  {
+    "id": "hst_prostat_buyumesi",
+    "ad": "Benign Prostat Hiperplazisi (BPH)",
+    "risk_esigi": 50,
+    "kategori": "UROLOJI",
+    "semptom_agirliklari": {
+      "smp_idrar_baslatma": 40,
+      "smp_idrar_akimi_zayif": 40,
+      "smp_idrar_bitmeme": 30,
+      "smp_gece_idrar": 30,
+      "smp_sik_idrar": 20
+    }
+  },
+  {
+    "id": "hst_bobrek_yetmezligi",
+    "ad": "Kronik Böbrek Yetmezliği Şüphesi",
+    "risk_esigi": 60,
+    "kategori": "NEFROLOJI",
+    "semptom_agirliklari": {
+      "smp_kopuklu_idrar": 50,
+      "smp_bacak_odem_cukur": 40,
+      "smp_halsizlik": 30,
+      "smp_bulanti": 20,
+      "smp_gece_idrar": 20
+    }
+  },
+  {
+    "id": "hst_polikistik_over",
+    "ad": "Polikistik Over Sendromu (PKOS)",
+    "risk_esigi": 45,
+    "kategori": "KADIN_DOGUM",
+    "semptom_agirliklari": {
+      "smp_adet_duzensiz": 50,
+      "smp_kilo_alma_istahsiz": 30,
+      "smp_sac_dokulmesi_asiri": 20,
+      "smp_metabolik_hiz_degisim": 20
+    }
+  },
+  {
+    "id": "hst_panik_atak",
+    "ad": "Panik Atak (Anksiyete Kriz)",
+    "risk_esigi": 50,
+    "kategori": "PSIKOLOJIK",
+    "semptom_agirliklari": {
+      "smp_gogus_sikisma": 40,
+      "smp_nefes_darligi": 30,
+      "smp_olum_korkusu": 70,
+      "smp_el_uyusmasi": 20
+    }
+  },
+  {
+    "id": "hst_kalp_krizi",
+    "ad": "Kalp Krizi (Akut Miyokard Enfarktüsü)",
+    "risk_esigi": 45,
+    "semptom_agirliklari": {
+      "smp_gogus_sikisma": 50,
+      "smp_sol_kol_agrisi": 30,
+      "smp_nefes_darligi": 20
+    }
+  },
+  {
+    "id": "hst_kalp_yetmezligi",
+    "ad": "Kronik Kalp Yetmezliği",
+    "risk_esigi": 50,
+    "semptom_agirliklari": {
+      "smp_kardiyak_ana": 40,
+      "smp_efor_nefes": 30,
+      "smp_bacak_odem": 20,
+      "smp_hizli_kilo": 10
+    }
+  },
+  {
+    "id": "hst_periferik_arter",
+    "ad": "Periferik Arter Hastalığı (Bacak Damar Tıkanıklığı)",
+    "risk_esigi": 50,
+    "semptom_agirliklari": {
+      "smp_yurume_agrisi": 50,
+      "smp_ayak_sogukluk": 30,
+      "smp_halsizlik": 20
+    }
+  },
+  {
+    "id": "hst_polinoropati",
+    "ad": "Polinöropati (Yaygın Sinir Hasarı)",
+    "risk_esigi": 45,
+    "semptom_agirliklari": {
+      "smp_noropati_ana": 40,
+      "smp_simetrik_tutulum": 30,
+      "smp_corap_eldiven": 30
+    }
+  },
+  {
+    "id": "hst_fitik",
+    "ad": "Servikal / Lomber Disk Hernisi (Boyun-Bel Fıtığı)",
+    "risk_esigi": 45,
+    "semptom_agirliklari": {
+      "smp_yayılan_agri": 40,
+      "smp_oksuruk_agri_artisi": 30,
+      "smp_noropati_ana": 30
+    }
+  },
+  {
+    "id": "hst_karpal_tunel",
+    "ad": "Karpal Tünel Sendromu",
+    "risk_esigi": 50,
+    "semptom_agirliklari": {
+      "smp_gece_el_uyusmasi": 40,
+      "smp_el_sallama_rahatlama": 40,
+      "smp_noropati_ana": 20
+    }
+  },
+  {
+    "id": "hst_tendon_yirtilmasi",
+    "ad": "Akut Tendon Yırtılması",
+    "risk_esigi": 55,
+    "semptom_agirliklari": {
+      "smp_travma_ana": 40,
+      "smp_ani_guc_kaybi": 40,
+      "smp_morarma_sislik": 20
+    }
+  },
+  {
+    "id": "hst_osteoartrit",
+    "ad": "Osteoartrit (Kireçlenme)",
+    "risk_esigi": 40,
+    "semptom_agirliklari": {
+      "smp_eklem_ana": 30,
+      "smp_sabah_tutukluk": 30,
+      "smp_krepitasyon": 40
+    }
+  },
+  {
+    "id": "hst_romatoid_artrit",
+    "ad": "Romatoid Artrit (İltihaplı Romatizma)",
+    "risk_esigi": 60,
+    "semptom_agirliklari": {
+      "smp_eklem_ana": 20,
+      "smp_sabah_sertligi_uzun": 50,
+      "smp_eklem_sislik": 30
+    }
+  },
+  {
+    "id": "hst_bronsit",
+    "ad": "Bronşit / Zatürre",
+    "risk_esigi": 40,
+    "semptom_agirliklari": {
+      "smp_solunum_ana": 20,
+      "smp_oksuruk_balgam": 40,
+      "smp_nefes_darligi": 30,
+      "smp_ates": 10
+    }
+  },
+  {
+    "id": "hst_koah",
+    "ad": "KOAH",
+    "risk_esigi": 50,
+    "semptom_agirliklari": {
+      "smp_solunum_ana": 30,
+      "smp_balgam_renk": 30,
+      "smp_efor_nefes": 40
+    }
+  },
+  {
+    "id": "hst_tüberküloz",
+    "ad": "Tüberküloz",
+    "risk_esigi": 65,
+    "semptom_agirliklari": {
+      "smp_gece_terlemesi": 30,
+      "smp_istahsizlik_kilo": 30,
+      "smp_kanli_balgam": 40
+    }
+  },
+  {
+    "id": "hst_reflu",
+    "ad": "Reflü / Gastrit",
+    "risk_esigi": 30,
+    "semptom_agirliklari": {
+      "smp_gastro_ana": 20,
+      "smp_mide_yanma": 50,
+      "smp_tokluk_agrisi": 30
+    }
+  },
+  {
+    "id": "hst_anemi",
+    "ad": "Demir Eksikliği Anemisi",
+    "risk_esigi": 35,
+    "semptom_agirliklari": {
+      "smp_halsizlik": 40,
+      "smp_solukluk": 30,
+      "smp_tirnak_sac_sorun": 30
+    }
+  },
+  {
+    "id": "hst_uyku_apnesi",
+    "ad": "Uyku Apne Sendromu",
+    "risk_esigi": 50,
+    "semptom_agirliklari": {
+      "smp_horlama_yuksek": 30,
+      "smp_uyku_nefes_durmasi": 50,
+      "smp_gunduz_uyku_hali": 20
+    }
+  },
+  {
+    "id": "hst_meme_kanseri",
+    "ad": "Meme Kanseri Şüphesi",
+    "risk_esigi": 60,
+    "semptom_agirliklari": {
+      "smp_meme_kitle": 60,
+      "smp_meme_cilt_degisim": 40
+    }
+  },
+  
+  {
+    "id": "hst_periferik_arter",
+    "ad": "Periferik Arter Hastalığı (Damar Tıkanıklığı)",
+    "risk_esigi": 50,
+    "semptom_agirliklari": {
+      "smp_yurume_agrisi": 50,
+      "smp_ayak_sogukluk": 30,
+      "smp_halsizlik": 20
+    }
+  },
+  {
+    "id": "hst_miyopati",
+    "ad": "Miyopati (Kas Hastalığı)",
+    "risk_esigi": 55,
+    "semptom_agirliklari": {
+      "smp_merdiven_zorlanma": 50,
+      "smp_kas_gucsuzlugu_on_plan": 40,
+      "smp_halsizlik": 10
+    }
+  },
+  {
+    "id": "hst_fibromiyalji",
+    "ad": "Fibromiyalji",
+    "risk_esigi": 65,
+    "semptom_agirliklari": {
+      "smp_yaygin_agri": 40,
+      "smp_yorgun_uyanma": 30,
+      "smp_hassas_noktalar": 30
+    }
+  },
+  {
+    "id": "hst_vertigo",
+    "ad": "Vertigo (Denge Bozukluğu)",
+    "risk_esigi": 40,
+    "semptom_agirliklari": {
+      "smp_bas_donmesi": 50,
+      "smp_denge_kaybi": 40,
+      "smp_bulanti": 10
+    }
+  },
+  {
+    "id": "hst_sinuzit",
+    "ad": "Akut Sinüzit",
+    "risk_esigi": 40,
+    "semptom_agirliklari": {
+      "smp_yuz_agrisi": 40,
+      "smp_burun_tikarikligi": 30,
+      "smp_ates": 20,
+      "smp_geniz_akintisi": 10
+    }
+  },
+  {
+    "id": "hst_konjonktivit",
+    "ad": "Konjonktivit (Göz İltihabı)",
+    "risk_esigi": 40,
+    "semptom_agirliklari": {
+      "smp_goz_kizariklik": 50,
+      "smp_goz_capaklanma": 30,
+      "smp_goz_yanma": 20
+    }
+  },
+  {
+    "id": "hst_periodontit",
+    "ad": "Periodontit (Diş Eti Hastalığı)",
+    "risk_esigi": 45,
+    "semptom_agirliklari": {
+      "smp_dis_eti_kanama": 50,
+      "smp_dis_sallanma": 30,
+      "smp_agiz_kokusu": 20
+    }
+  },
+  {
+    "id": "hst_sedef_hastaligi",
+    "ad": "Sedef Hastalığı (Psoriazis)",
+    "risk_esigi": 50,
+    "semptom_agirliklari": {
+      "smp_cilt_pullanma": 60,
+      "smp_cilt_kizariklik": 20,
+      "smp_kasinti": 20
+    }
+  },
+  {
+    "id": "hst_depresyon",
+    "ad": "Klinik Depresyon Şüphesi",
+    "risk_esigi": 60,
+    "semptom_agirliklari": {
+      "smp_mutsuzluk_surekli": 40,
+      "smp_ilgi_kaybi": 30,
+      "smp_uyku_istah_degisim": 30
+    }
+  },
+  {
+    "id": "hst_tiroid_bozuklugu",
+    "ad": "Tiroid Fonksiyon Bozukluğu",
+    "risk_esigi": 45,
+    "semptom_agirliklari": {
+      "smp_metabolik_hiz_degisim": 40,
+      "smp_sac_dokulmesi_asiri": 30,
+      "smp_boyun_sislik": 30
+    }
+  },
+  {
+    "id": "hst_idrar_yolu_enfeksiyonu",
+    "ad": "İdrar Yolu Enfeksiyonu",
+    "risk_esigi": 40,
+    "semptom_agirliklari": {
+      "smp_idrar_yanma": 50,
+      "smp_sik_idrar": 30,
+      "smp_pelvik_agri": 20
+    }
+  },
+  {
+    "id": "hst_migren",
+    "ad": "Migren",
+    "risk_esigi": 55,
+    "kategori": "NOROLOJIK",
+    "semptom_agirliklari": {
+      "smp_tek_tarafli_bas": 50,
+      "smp_isik_hassasiyeti": 30,
+      "smp_bulanti": 20
+    }
+  },
+  {
+    "id": "hst_diyabet",
+    "ad": "Diyabet (Şeker Hastalığı) Şüphesi",
+    "risk_esigi": 50,
+    "kategori": "METABOLIK",
+    "semptom_agirliklari": {
+      "smp_cok_su_icme": 40,
+      "smp_sik_idrar": 30,
+      "smp_halsizlik": 20,
+      "smp_metabolik_hiz_degisim": 10
+    }
+  },
+  {
+    "id": "hst_bobrek_tasi",
+    "ad": "Nefrolitiyazis (Böbrek Taşı)",
+    "risk_esigi": 60,
+    "kategori": "UROLOJIK",
+    "semptom_agirliklari": {
+      "smp_yan_agrisi": 50,
+      "smp_kanli_idrar": 30,
+      "smp_bulanti": 20
+    }
+  },
+  {
+    "id": "hst_apandisit",
+    "ad": "Akut Apandisit",
+    "risk_esigi": 65,
+    "kategori": "ACIL",
+    "semptom_agirliklari": {
+      "smp_sag_alt_karin": 50,
+      "smp_karin_hassasiyet": 30,
+      "smp_bulanti": 10,
+      "smp_ates": 10
+    }
+  },
+  {
+    "id": "hst_gastrit",
+    "ad": "Gastrit / Mide Ülseri",
+    "risk_esigi": 40,
+    "kategori": "GASTRO",
+    "semptom_agirliklari": {
+      "smp_mide_kazınma": 40,
+      "smp_mide_yanma": 30,
+      "smp_bulanti": 20
+    }
+  },
+  {
+    "id": "hst_hipertansiyon",
+    "ad": "Hipertansiyon (Yüksek Tansiyon)",
+    "risk_esigi": 45,
+    "kategori": "KARDIYOLOJI",
+    "semptom_agirliklari": {
+      "smp_yuksek_tansiyon_belirti": 50,
+      "smp_bas_donmesi": 30,
+      "smp_nefes_darligi": 20
+    }
+  },
+  {
+    "id": "hst_astim",
+    "ad": "Astım",
+    "risk_esigi": 50,
+    "kategori": "GOGUS",
+    "semptom_agirliklari": {
+      "smp_nefes_darligi": 30,
+      "smp_nefes_hirilti": 40,
+      "smp_oksuruk_kuru": 30
+    }
+  },
+  {
+    "id": "hst_egzama",
+    "ad": "Atopik Dermatit (Egzama)",
+    "risk_esigi": 40,
+    "kategori": "DERMATOLOJI",
+    "semptom_agirliklari": {
+      "smp_kasinti_kabarti": 50,
+      "smp_cilt_kizariklik": 30,
+      "smp_cilt_pullanma": 20
+    }
+  },
+  {
+    "id": "hst_meniskus",
+    "ad": "Menisküs Yırtığı",
+    "risk_esigi": 50,
+    "kategori": "ORTOPEDI",
+    "semptom_agirliklari": {
+      "smp_diz_kilitlenme": 50,
+      "smp_merdiven_zorlanma": 30,
+      "smp_eklem_sislik": 20
+    }
+  },
+  {
+    "id": "hst_tonsilit",
+    "ad": "Tonsilit (Bademcik İltihabı)",
+    "risk_esigi": 45,
+    "kategori": "KBB",
+    "semptom_agirliklari": {
+      "smp_bogaz_agrisi": 50,
+      "smp_ates_yuksek": 30,
+      "smp_halsizlik": 20
+    }
+  },
+  {
+    "id": "hst_grip",
+    "ad": "İnfluenza (Mevsimsel Grip)",
+    "risk_esigi": 40,
+    "kategori": "ENFEKSIYON",
+    "semptom_agirliklari": {
+      "smp_ates_yuksek": 30,
+      "smp_yaygin_agri": 30,
+      "smp_halsizlik": 20,
+      "smp_oksuruk_kuru": 20
+    }
+  }
+
+]

@@ -1,0 +1,330 @@
+[
+  
+  {
+    "hastalik_id": "hst_spinal_stenoz",
+    "bolum_adi": "Beyin ve Sinir Cerrahisi / FTR",
+    "adres": "A Blok, 2. Kat, Omurga Sağlığı ve Kanal Daralması Birimi."
+  },
+  {
+    "hastalik_id": "hst_ankilozan_spondilit",
+    "bolum_adi": "Romatoloji",
+    "adres": "D Blok, 3. Kat, İltihaplı Omurga Hastalıkları Polikliniği."
+  },
+  {
+    "hastalik_id": "hst_bel_kaymasi",
+    "bolum_adi": "Ortopedi ve Travmatoloji / Beyin Cerrahisi",
+    "adres": "C Blok, Zemin Kat, Omurga Deformite Ünitesi."
+  },
+
+  {
+    "hastalik_id": "hst_safra_tasi",
+    "bolum_adi": "Genel Cerrahi",
+    "adres": "C Blok, 1. Kat, Safra ve Karaciğer Cerrahisi."
+  },
+  {
+    "hastalik_id": "hst_ibs",
+    "bolum_adi": "Gastroenteroloji",
+    "adres": "D Blok, 2. Kat, Fonksiyonel Bağırsak Hastalıkları."
+  },
+  {
+    "hastalik_id": "hst_hemoroid",
+    "bolum_adi": "Genel Cerrahi (Proktoloji)",
+    "adres": "C Blok, 1. Kat, Proktoloji Ünitesi."
+  },
+  {
+    "hastalik_id": "hst_hepatit",
+    "bolum_adi": "Enfeksiyon Hastalıkları / Gastroenteroloji",
+    "adres": "E Blok (İzole Alan), Zemin Kat."
+  },
+  {
+    "hastalik_id": "hst_kasik_fitigi",
+    "bolum_adi": "Genel Cerrahi",
+    "adres": "C Blok, 1. Kat, Fıtık Merkezi."
+  },
+  {
+    "hastalik_id": "hst_gida_zehirlenmesi",
+    "bolum_adi": "ACİL SERVİS / Dahiliye",
+    "adres": "Acil Servis Sarı Alan veya Genel Dahiliye."
+  },
+  {
+    "hastalik_id": "hst_uyuz",
+    "bolum_adi": "Dermatoloji (Cildiye)",
+    "adres": "C Blok, 2. Kat, Enfeksiyöz Deri Hastalıkları."
+  },
+  {
+    "hastalik_id": "hst_melanom",
+    "bolum_adi": "Plastik Cerrahi / Onkoloji",
+    "adres": "Ana Bina, 1. Kat, Tümör Konseyi ve Ben Takip Birimi."
+  },
+  {
+    "hastalik_id": "hst_akne",
+    "bolum_adi": "Dermatoloji (Cildiye)",
+    "adres": "C Blok, 2. Kat, Akne ve Estetik Dermatoloji."
+  },
+  {
+    "hastalik_id": "hst_mantar",
+    "bolum_adi": "Dermatoloji (Cildiye)",
+    "adres": "C Blok, 2. Kat, Genel Poliklinik."
+  },
+  {
+    "hastalik_id": "hst_sackiran",
+    "bolum_adi": "Dermatoloji (Cildiye)",
+    "adres": "C Blok, 2. Kat, Saç Hastalıkları Birimi."
+  },
+  {
+    "hastalik_id": "hst_bruksizm",
+    "bolum_adi": "Diş Hekimliği / Çene Cerrahisi",
+    "adres": "Diş Hastanesi, Protez veya Çene Cerrahisi Bölümü."
+  },
+  {
+    "hastalik_id": "hst_agiz_kanseri",
+    "bolum_adi": "Kulak Burun Boğaz / Çene Cerrahisi",
+    "adres": "Ana Bina, 1. Kat, Tümör Konseyi."
+  },
+  {
+    "hastalik_id": "hst_okb",
+    "bolum_adi": "Ruh Sağlığı ve Hastalıkları (Psikiyatri)",
+    "adres": "E Blok, 3. Kat, Nevroz Polikliniği."
+  },
+  {
+    "hastalik_id": "hst_alzheimer_erken",
+    "bolum_adi": "Nöroloji / Geriatri",
+    "adres": "B Blok, 2. Kat, Demans ve Hafıza Polikliniği."
+  },
+  {
+    "hastalik_id": "hst_sosyal_fobi",
+    "bolum_adi": "Psikiyatri / Psikolog",
+    "adres": "E Blok, 3. Kat, Psikoterapi Birimi."
+  },
+  {
+    "hastalik_id": "hst_glokom",
+    "bolum_adi": "Göz Hastalıkları",
+    "adres": "A Blok, 1. Kat, Glokom Birimi (Acil randevu önerilir)."
+  },
+  {
+    "hastalik_id": "hst_katarakt",
+    "bolum_adi": "Göz Hastalıkları",
+    "adres": "A Blok, 1. Kat, Katarakt ve Refraktif Cerrahi."
+  },
+  {
+    "hastalik_id": "hst_retina_dekolmani",
+    "bolum_adi": "Göz Hastalıkları / ACİL",
+    "adres": "Vakit kaybetmeden Göz Acil Servisine gidiniz."
+  },
+  {
+    "hastalik_id": "hst_kuru_goz",
+    "bolum_adi": "Göz Hastalıkları",
+    "adres": "A Blok, Zemin Kat, Genel Göz Polikliniği."
+  },
+  {
+    "hastalik_id": "hst_hipertiroidi",
+    "bolum_adi": "Endokrinoloji",
+    "adres": "B Blok, Zemin Kat, Tiroid Hastalıkları Polikliniği."
+  },
+  {
+    "hastalik_id": "hst_hipotiroidi",
+    "bolum_adi": "Endokrinoloji / Dahiliye",
+    "adres": "B Blok, Zemin Kat, Hormon Metabolizması."
+  },
+  {
+    "hastalik_id": "hst_prostat_buyumesi",
+    "bolum_adi": "Üroloji",
+    "adres": "A Blok, 2. Kat, Erkek Sağlığı ve Prostat Polikliniği."
+  },
+  {
+    "hastalik_id": "hst_bobrek_yetmezligi",
+    "bolum_adi": "Nefroloji",
+    "adres": "D Blok, 1. Kat, Böbrek Hastalıkları ve Diyaliz Hazırlık."
+  },
+  {
+    "hastalik_id": "hst_polikistik_over",
+    "bolum_adi": "Kadın Hastalıkları ve Doğum",
+    "adres": "C Blok, 3. Kat, Jinekoloji Polikliniği."
+  },
+  {
+    "hastalik_id": "hst_kalp_krizi",
+    "bolum_adi": "ACİL SERVİS",
+    "adres": "Hastanenin ACİL girişine başvurun (Kırmızı Alan)."
+  },
+  {
+    "hastalik_id": "hst_kalp_yetmezligi",
+    "bolum_adi": "Kardiyoloji",
+    "adres": "A Blok, 1. Kat, Kalp Yetmezliği ve Ritim Bozuklukları Birimi."
+  },
+  {
+    "hastalik_id": "hst_periferik_arter",
+    "bolum_adi": "Kalp ve Damar Cerrahisi",
+    "adres": "A Blok, 1. Kat, Damar Cerrahisi Polikliniği."
+  },
+  {
+    "hastalik_id": "hst_polinoropati",
+    "bolum_adi": "Nöroloji",
+    "adres": "B Blok, 2. Kat, Nöromüsküler Hastalıklar Bölümü."
+  },
+  {
+    "hastalik_id": "hst_fitik",
+    "bolum_adi": "Beyin ve Sinir Cerrahisi (Nöroşirürji)",
+    "adres": "A Blok, 2. Kat, Omurga Sağlığı Merkezi."
+  },
+  {
+    "hastalik_id": "hst_karpal_tunel",
+    "bolum_adi": "Nöroloji / Ortopedi",
+    "adres": "B Blok, 2. Kat, El Cerrahisi ve Sinir Sıkışmaları Birimi."
+  },
+  {
+    "hastalik_id": "hst_tendon_yirtilmasi",
+    "bolum_adi": "Ortopedi ve Travmatoloji",
+    "adres": "C Blok, Zemin Kat, Spor Yaralanmaları ve Travma Polikliniği."
+  },
+  {
+    "hastalik_id": "hst_osteoartrit",
+    "bolum_adi": "Fizik Tedavi ve Rehabilitasyon / Ortopedi",
+    "adres": "D Blok, 3. Kat, Eklem Sağlığı Polikliniği."
+  },
+  {
+    "hastalik_id": "hst_romatoid_artrit",
+    "bolum_adi": "Romatoloji",
+    "adres": "D Blok, 3. Kat, İltihaplı Romatizmal Hastalıklar Birimi."
+  },
+  {
+    "hastalik_id": "hst_bronsit",
+    "bolum_adi": "Göğüs Hastalıkları",
+    "adres": "B Blok, 4. Kat, Solunum Yolu Enfeksiyonları Polikliniği."
+  },
+  {
+    "hastalik_id": "hst_koah",
+    "bolum_adi": "Göğüs Hastalıkları",
+    "adres": "B Blok, 4. Kat, Kronik Hava Yolu Hastalıkları Merkezi."
+  },
+  {
+    "hastalik_id": "hst_tüberküloz",
+    "bolum_adi": "Enfeksiyon Hastalıkları",
+    "adres": "E Blok (İzole Alan), 1. Kat, Tüberküloz Takip Birimi."
+  },
+  {
+    "hastalik_id": "hst_reflu",
+    "bolum_adi": "Gastroenteroloji",
+    "adres": "D Blok, 2. Kat, Sindirim Sistemi Hastalıkları Birimi."
+  },
+  {
+    "hastalik_id": "hst_anemi",
+    "bolum_adi": "İç Hastalıkları (Dahiliye)",
+    "adres": "B Blok, Zemin Kat, Genel Dahiliye Polikliniği."
+  },
+  {
+    "hastalik_id": "hst_uyku_apnesi",
+    "bolum_adi": "Göğüs Hastalıkları",
+    "adres": "B Blok, 4. Kat, Uyku Laboratuvarı."
+  },
+  {
+    "hastalik_id": "hst_meme_kanseri",
+    "bolum_adi": "Genel Cerrahi / Onkoloji",
+    "adres": "C Blok, 2. Kat, Meme Sağlığı ve Hastalıkları Birimi."
+  },
+
+  {
+    "hastalik_id": "hst_miyopati",
+    "bolum_adi": "Nöroloji / Kas Hastalıkları Birimi",
+    "adres": "B Blok, 2. Kat, Nöromüsküler İnceleme Laboratuvarı Yanı."
+  },
+  {
+    "hastalik_id": "hst_fibromiyalji",
+    "bolum_adi": "Fizik Tedavi ve Rehabilitasyon / Romatoloji",
+    "adres": "D Blok, 3. Kat, Kronik Ağrı Yönetim Merkezi."
+  },
+  {
+    "hastalik_id": "hst_vertigo",
+    "bolum_adi": "Kulak Burun Boğaz (KBB)",
+    "adres": "C Blok, 1. Kat, Odyoloji ve Denge Ünitesi."
+  },
+  {
+    "hastalik_id": "hst_sinuzit",
+    "bolum_adi": "Kulak Burun Boğaz (KBB)",
+    "adres": "C Blok, 1. Kat, Rinoloji Polikliniği."
+  },
+  {
+    "hastalik_id": "hst_konjonktivit",
+    "bolum_adi": "Göz Hastalıkları",
+    "adres": "A Blok, Zemin Kat, Genel Göz Polikliniği."
+  },
+  {
+    "hastalik_id": "hst_periodontit",
+    "bolum_adi": "Ağız, Diş ve Çene Cerrahisi / Periodontoloji",
+    "adres": "Diş Hekimliği Fakültesi veya Hastane Ek Hizmet Binası, Diş Kliniği."
+  },
+  {
+    "hastalik_id": "hst_sedef_hastaligi",
+    "bolum_adi": "Dermatoloji (Cilt Hastalıkları)",
+    "adres": "C Blok, 2. Kat, Deri ve Zührevi Hastalıklar Polikliniği."
+  },
+  {
+    "hastalik_id": "hst_depresyon",
+    "bolum_adi": "Ruh Sağlığı ve Hastalıkları (Psikiyatrisi)",
+    "adres": "E Blok, 3. Kat, Erişkin Ruh Sağlığı Polikliniği."
+  },
+  {
+    "hastalik_id": "hst_tiroid_bozuklugu",
+    "bolum_adi": "Endokrinoloji ve Metabolizma Hastalıkları",
+    "adres": "B Blok, Zemin Kat, Hormon Hastalıkları Birimi."
+  },
+  {
+    "hastalik_id": "hst_idrar_yolu_enfeksiyonu",
+    "bolum_adi": "Üroloji / İç Hastalıkları",
+    "adres": "A Blok, 2. Kat, Üroloji Polikliniği veya Genel Dahiliye."
+  },
+  {
+    "hastalik_id": "hst_migren",
+    "bolum_adi": "Nöroloji",
+    "adres": "B Blok, 2. Kat, Baş Ağrısı Polikliniği."
+  },
+  {
+    "hastalik_id": "hst_diyabet",
+    "bolum_adi": "Endokrinoloji ve Metabolizma",
+    "adres": "B Blok, Zemin Kat, Diyabet Eğitim Birimi."
+  },
+  {
+    "hastalik_id": "hst_bobrek_tasi",
+    "bolum_adi": "Üroloji",
+    "adres": "A Blok, 2. Kat, Taş Kırma (ESWL) Merkezi Yanı."
+  },
+  {
+    "hastalik_id": "hst_apandisit",
+    "bolum_adi": "ACİL SERVİS / Genel Cerrahi",
+    "adres": "Vakit kaybetmeden ACİL SERVİS (Kırmızı Alan) girişine gidiniz."
+  },
+  {
+    "hastalik_id": "hst_gastrit",
+    "bolum_adi": "Gastroenteroloji",
+    "adres": "D Blok, 2. Kat, Mide Hastalıkları Polikliniği."
+  },
+  {
+    "hastalik_id": "hst_hipertansiyon",
+    "bolum_adi": "Kardiyoloji / Nefroloji",
+    "adres": "A Blok, 1. Kat, Tansiyon Holter Birimi."
+  },
+  {
+    "hastalik_id": "hst_astim",
+    "bolum_adi": "Göğüs Hastalıkları / Alerji",
+    "adres": "B Blok, 4. Kat, Solunum Fonksiyon Testi Laboratuvarı."
+  },
+  {
+    "hastalik_id": "hst_egzama",
+    "bolum_adi": "Dermatoloji (Cildiye)",
+    "adres": "C Blok, 2. Kat, Alerji Test Birimi."
+  },
+  {
+    "hastalik_id": "hst_meniskus",
+    "bolum_adi": "Ortopedi ve Travmatoloji",
+    "adres": "C Blok, Zemin Kat, Spor Hekimliği."
+  },
+  {
+    "hastalik_id": "hst_tonsilit",
+    "bolum_adi": "Kulak Burun Boğaz (KBB)",
+    "adres": "C Blok, 1. Kat, Enfeksiyon Polikliniği."
+  },
+  {
+    "hastalik_id": "hst_grip",
+    "bolum_adi": "Enfeksiyon Hastalıkları / Dahiliye",
+    "adres": "Poliklinik Binası Giriş Kat."
+  }
+]
